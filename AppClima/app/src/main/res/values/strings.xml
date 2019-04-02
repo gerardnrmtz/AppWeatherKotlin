@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grados">23º</string>
+    <string name="texto_ciudad">Torreon</string>
+    <string name="texto_estatus">Nublado</string>
+    <string name="texto_saludo">Bienvenido a mi app del clima, para ver el clima seleccione la opcion de abajo</string>
+    <string name="texto_boton_mexico">Clima de la ciudad de Torreon</string>
+    <string name="texto_boton_berlin">Clima de la ciudad de Berlin</string>
+</resources>
